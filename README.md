@@ -80,3 +80,7 @@ My passion is creating seamless user experiences across mobile and TV ecosystems
 ---
 
 ⭐ **Thanks for visiting! Feel free to explore my work and connect with me.**
+
+<!-- SEO Section -->
+## 🔍 SEO Keywords
+Senior React Native Developer, React Native Expert India, React Native TV OS Developer, Android TV Developer, Apple TV Developer, Mobile App Developer Surat, React Native Engineer, JavaScript Developer, TypeScript Developer, Expo Developer, Mobile App Architecture, UI/UX Focused Developer, Kaushik Patel React Native
