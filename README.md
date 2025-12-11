@@ -73,7 +73,7 @@ My passion is creating seamless user experiences across mobile and TV ecosystems
 ---
 
 ## 📫 Contact Me
-📧 **kaushikpatel08dec@gmail.com**  
+📧 **patelkaushik08dec@gmail.com**  
 📞 **+91 83475 38090**  
 📍 Surat, Gujarat, India  
 
