@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am a **Senior React Native Developer with 6.7+ years of experience**, specializing in building high-quality, high-performance applications for **Android, iOS, Android TV, and Apple TV**.
+I am a **Senior React Native Developer with 8 years of experience**, specializing in building high-quality, high-performance applications for **Android, iOS, Android TV, and Apple TV**.
 
 I focus on:
 - Clean & scalable architecture  
